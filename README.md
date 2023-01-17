@@ -1,1 +1,1 @@
-# SliderSF
+# SFslide
